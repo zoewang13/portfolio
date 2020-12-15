@@ -1,17 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Zoe Wang's Portfolio
 
-You can use the [editor on GitHub](https://github.com/zoewang13/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I don't claim to be the best at data science, but I'm learning with every project. Everyone starts somewhere!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below are my projects, from newest to oldest.
 
-### Markdown
+# STATS 101C FINAL PROJECT
+# STATS 101C MIDTERM PROJECT
+# STATS 101B FINAL PROJECT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# STATS 101A FINAL PROJECT
+This class was to teach us the basics of regression. This project was difficult as it was the first time I had ever worked with real data and received no hint on what direction to go. As a starting off point, it is not bad! Take a look for yourself and see.
 
-```markdown
-Syntax highlighted code block
+[101A Final Project Write-up](https://github.com/zoewang13/101A-Final-Report)
 
-# Header 1
 ## Header 2
 ### Header 3
 
