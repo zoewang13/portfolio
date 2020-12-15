@@ -6,6 +6,7 @@ Below are my projects, from newest to oldest.
 
 
 # UCLA SCHOOLWORK
+![Image](https://i.pinimg.com/originals/81/89/46/8189466271a8cf1f00926168337dddd5.png)
 ## STATS 101C FINAL PROJECT
 I am most proud of my work on this project. I created the best model and we placed 11th in our Kaggle competition (out of 30+ groups). I learned the ins and outs of Random Forest with this.
 
