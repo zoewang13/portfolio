@@ -16,7 +16,7 @@ Looking back, here are a few changes I would make:
 - There was a predictor called PublishedDate which had dates in the form 12/10/2020 11:11PM, which I deleted. However, I should have dissected it and created new predictors using it.
 - Other predictors were similar, such as different features of the thumnail; these could have been combined/fused to create new predictors as well.
 
-[101C Final Project] (https://github.com/zoewang13/101C-Final-Project)
+[101C Final Project](https://github.com/zoewang13/101C-Final-Project)
 
 
 ## STATS 101C MIDTERM PROJECT
@@ -24,7 +24,7 @@ This class taught us many new techniques and introduced us to classification met
 
 I had never worked with data this large and it was admittedly quite difficult to transition from working with small datasets for homework to being presented with a huge dataset and no hint on what methods to try.
 
-[101C Midterm Project] (https://github.com/zoewang13/101C-Midterm-Project)
+[101C Midterm Project](https://github.com/zoewang13/101C-Midterm-Project)
 
 ## STATS 101B FINAL PROJECT
 This class delved into categorical variables. This project tasked us with exploring the virtual "Island" and to experience the time it takes to actually sample and record data. 
