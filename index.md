@@ -1,9 +1,6 @@
 ## Welcome to Zoe Wang's Portfolio
 
-I don't claim to be the best at data science, but I'm learning with every project. Everyone starts somewhere!
-
-Below are my projects, from newest to oldest.
-
+Below are my projects, from newest to oldest. I'm still learning with every project...everyone starts somewhere!
 
 # UCLA SCHOOLWORK
 ![Image](https://i.pinimg.com/originals/81/89/46/8189466271a8cf1f00926168337dddd5.png)
