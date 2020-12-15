@@ -33,7 +33,7 @@ The topic we chose to investigate was the relationship between listening to vari
 
 [101B Final Project Write-up](https://github.com/zoewang13/101B-Project)
 
-## STATS 101A FINAL PROJECT
+## STATS 101A FINAL PROJECT 
 This class was to teach us the basics of regression. This project was difficult as it was the first time I had ever worked with real data and received no hint on what direction to go. As a starting off point, it is not bad! Take a look for yourself and see.
 
 [101A Final Project Write-up](https://github.com/zoewang13/101A-Final-Report)
